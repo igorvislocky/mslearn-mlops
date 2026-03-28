@@ -17,8 +17,7 @@ run_id: calm_garden_gzd94mfzcr
 signature:
   inputs: '[{"name": "PatientID", "type": "integer"}, {"name": "Pregnancies", "type":
     "integer"}, {"name": "PlasmaGlucose", "type": "integer"}, {"name": "DiastolicBloodPressure",
-    "type": "integer"}, {"name": "TricepsThickness", "type": "integer"}, {"name":
-    "DiastolicBloodPressure", "type": "integer"}, {"name": "SerumInsulin", "type":
+    "type": "integer"}, {"name": "TricepsThickness", "type": "integer"}, {"name": "SerumInsulin", "type":
     "integer"}, {"name": "BMI", "type": "double"}, {"name": "DiabetesPedigree", "type":
     "double"}, {"name": "Age", "type": "integer"}]'
   outputs: '[{"type": "boolean"}]'
