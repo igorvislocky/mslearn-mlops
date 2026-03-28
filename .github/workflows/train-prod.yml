@@ -7,8 +7,7 @@ on:
 permissions:
   contents: read
   issues: write
-  issues: write    # <--- ADD THIS LINE
-
+  
 jobs:
   train-prod:
     if: >-
